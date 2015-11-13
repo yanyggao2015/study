@@ -1,2 +1,2 @@
 # study
-for study
+git repository for study
